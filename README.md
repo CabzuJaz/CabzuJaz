@@ -2,7 +2,7 @@
 
 **Claude AI Automation Engineer** — I build AI agents, MCP servers, and automation workflows using the Anthropic ecosystem.
 
-Transitioned from **5+ years of C# desktop development** into Claude AI engineering.
+Transitioned from **2+ years of C# desktop development** into Claude AI engineering.
 Strong engineering fundamentals meet hands-on AI systems depth.
 
 ---
