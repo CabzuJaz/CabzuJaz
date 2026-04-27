@@ -1,4 +1,4 @@
-# Hi, I'm CabzuJaz 👋
+# Hi, I'm Jazzmin Sicat-Cabizares 👋
 
 **Claude AI Automation Engineer** — I build AI agents, MCP servers, and automation workflows using the Anthropic ecosystem.
 
